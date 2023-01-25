@@ -1,7 +1,7 @@
 # Digital Watch
 
-#🚀 Technologies
+# 🚀 Technologies
 
-HTML
-CSS
-JAVASCRIPT
+* HTML
+* CSS
+* JAVASCRIPT
